@@ -1,0 +1,27 @@
+#wrapper{
+    height:1000px;
+    width:1000px;
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+}
+#header{
+    border: 5px solid white;
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+}
+#header img{
+    vertical-align: top;
+}
+#header h2{
+    color:white;
+}
+#main_content{
+    border: 5px solid white;
+}
+#main_content img{
+    display:inline-block;
+    margin-left:50px;
+    margin-right:50px;
+    vertical-align: top;
+}
+#main_content h1{
+    color:white;
+}
